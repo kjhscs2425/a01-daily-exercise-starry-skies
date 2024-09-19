@@ -12,9 +12,7 @@ for i in range(3):
         turtle.right(120)
 turtle.left(180)
 draw()
-for i in range (2):
-       turtle.right(120)
-       draw()
+
     
 
      

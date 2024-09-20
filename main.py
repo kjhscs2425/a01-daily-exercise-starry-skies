@@ -10,8 +10,11 @@ def draw():
 for i in range(3):
         draw()
         turtle.right(120)
-turtle.left(180)
-draw()
+turtle.right(60)
+for i in range(3):
+       draw()
+       turtle.right(120)
+        
 
     
 
